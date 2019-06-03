@@ -1,0 +1,737 @@
+Airport Name,Airport Code
+Pilot Station Airport,0AK
+Nunapitchuk Airport,16A
+Grand Canyon West Airport,1G4
+Larsen Bay Airport,2A3
+Kotlik Airport,2A9
+Marshall Don Hunter Sr,3A5
+Middle Bass Island Airport,3T7
+Put - in - Bay Airport,3W2
+Old Harbor Airport,6R7
+Anacortes Airport,74S
+Tuntutuliak Airport,A61
+Kwigillingok Airport,A85
+Allentown,ABE
+Abilene Regional Airport,ABI
+Albuquerque International Airport,ABQ
+Aberdeen Regional Airport,ABR
+Southwest Georgia Regional Airport,ABY
+Bellaire/Antrim County Airport,ACB
+Nantucket,ACK
+Waco Regional Airport,ACT
+Arcata Airport,ACV
+Atlantic City International Airport,ACY
+Adak Airport,ADK
+Kodiak Airport,ADQ
+Alexandria International Airport,AEX
+Ambler Airport,AFM
+Allegheny County Airport,AGC
+Angoon Seaplane Base,AGN
+Augusta,AGS
+Athens/Ben Epps Airport,AHN
+Alliance Municipal Airport,AIA
+Anderson Municipal Airport,AID
+Atlantic City Municipal Airport/Bader Field,AIY
+Lee C Fine Memorial Airport,AIZ
+King Salmon Airport,AKN
+Anaktuvuk Pass Airport,AKP
+Klawock Airport,AKW
+Albany International Airport,ALB
+Alamogordo,ALM
+St Louis Regional Airport,ALN
+Waterloo Regional Airport,ALO
+San Luis Valley Regional Airport,ALS
+Walla Walla Regional Airport,ALW
+Amarillo,AMA
+Anniston Municipal Airport,ANB
+Anchorage International Airport,ANC
+Anderson Regional Airport,AND
+Aniak Airport,ANI
+Altoona-Blair County Airport,AOO
+Naples Municipal Airport,APF
+Alpena County Regional Airport,APN
+Quinhagak Airport,AQH
+Nuiqsut Airport,AQT
+Watertown International Airport,ART
+Aspen,ASE
+Talladega Municipal Airport,ASN
+Astoria Regional Airport,AST
+Atqasuk Edward Burnell Sr Memorial Airport,ATK
+Atlanta Hartsfield International Airport,ATL
+Outagamie County Regional Airport,ATW
+Watertown Municipal Airport,ATY
+Augusta,AUG
+Alakanuk Airport,AUK
+Austin Bergstrom International Airport,AUS
+Asheville,AVL
+Scranton,AVP
+Wainwright Airport,AWI
+Chandler Field Airport,AXN
+Kalamazoo-Battle Creek International Airport,AZO
+Barnes Municipal Airport,BAF
+Columbus Municipal Airport,BAK
+Bryce Canyon Airport,BCE
+Baudette International Airport,BDE
+Hartford,BDL
+Igor I Sikorsky Memorial Airport,BDR
+Bedford Hanscom Field,BED
+Southwest Michigan Regional Airport,BEH
+Bethel Airport,BET
+Bradford Regional Airport,BFD
+Western Nebraska Regional Airport,BFF
+Boeing Field/King County International Airport,BFI
+Meadows Field Airport,BFL
+Greater Binghamton Airport,BGM
+Bangor,BGR
+Hancock County-Bar Harbor Airport,BHB
+Birmingham International Airport,BHM
+Block Island State Airport,BID
+Allen Aaf Airport,BIG
+Billings,BIL
+Bismark,BIS
+Bemidji Regional Airport,BJI
+Burke Lakefront Airport,BKL
+Raleigh County Memorial Airport,BKW
+Brookings Municipal Airport,BKX
+Bellingham International Airport,BLI
+Monmouth Executive Airport,BLM
+Midamerica Airport,BLV
+Monroe County Airport,BMG
+Central Illinois Regional Airport,BMI
+Nashville,BNA
+Boise,BOI
+"Boston, Logan International Airport",BOS
+Baxter County Regional Airport,BPK
+Southeast Texas Regional Airport,BPT
+Brunswick Golden Isles Airport,BQK
+Aguadilla Airport,BQN
+Brainerd Lakes Regional Airport,BRD
+Southeast Iowa Regional Airport,BRL
+Brownsville/South Padre Island International Airport,BRO
+Wiley Post-Will Rogers Memorial Airport,BRW
+Barter Island LRRS Airport,BTI
+Battlecreek,BTL
+Bert Mooney Airport,BTM
+Baton Rouge,BTR
+Burlington,BTV
+Buffalo,BUF
+Burbank,BUR
+Buckland Airport,BVK
+Bowling Green-Warren County Regional Airport,BWG
+Baltimore,BWI
+Bozeman Gallatin Field Airport,BZN
+Columbia,CAE
+Akron,CAK
+Buchanan Field Airport,CCR
+Cold Bay Airport,CDB
+Cedar City Regional Airport,CDC
+Cordova Municipal Airport,CDV
+Essex County Airport,CDW
+Jack Mc Namara Field Airport,CEC
+Westover Metropolitan Airport,CEF
+Cortez Municipal Airport,CEZ
+Chefornak Airport,CFK
+Craig Airport,CGA
+Cuyahoga County Airport,CGF
+Cape Girardeau Regional Airport,CGI
+Merrill C Meigs Field,CGX
+Chattanooga,CHA
+Charlottesville-Albemarle Airport,CHO
+Charleston,CHS
+Chico Municipal Airport,CIC
+Cedar Rapids,CID
+Chippewa County International Airport,CIU
+Clarksburg,CKB
+Cleveland,CLE
+Easterwood Airport,CLL
+William R Fairchild International Airport,CLM
+Charlotte/Douglas International Airport,CLT
+Columbus,CMH
+Champaign Willard Airport,CMI
+Houghton County Memorial Airport,CMX
+Cavern City Air Terminal,CNM
+Canyonlands Field,CNY
+Yellowstone Regional Airport,COD
+Coeur D'alene Airport,COE
+Colorado Springs,COS
+Columbia Regional Airport,COU
+Casper,CPR
+Culebra Airport,CPX
+Corpus Christi,CRP
+Mc Clellan-Palomar Airport,CRQ
+Charleston,CRW
+Columbus Metropolitan Airport,CSG
+Cincinnati,CVG
+Corvallis Municipal Airport,CVO
+Charlevoix Municipal Airport,CVX
+Central Wisconsin Airport,CWA
+Clinton Municipal Airport,CWI
+Cheyenne,CYS
+Robert (Bob) Curtis Memorial Airport,D76
+Daytona Beach,DAB
+Dallas Love Field Airport,DAL
+Danville Regional Airport,DAN
+Dayton,DAY
+Dubuque Regional Airport,DBQ
+Washington National Airport,DCA
+Dodge City Regional Airport,DDC
+William H. Morse State Airport,DDH
+Decatur Airport,DEC
+Denver International Airport,DEN
+Detroit,DET
+Dallas/Fort Worth International Airport,DFW
+Dothan Regional Airport,DHN
+Dickinson - Theodore Roosevelt Regional Airport,DIK
+Dillingham Airport,DLG
+Duluth,DLH
+Vermilion County Airport,DNV
+Durango-La Plata County Airport,DRO
+Del Rio International Airport,DRT
+Des Moines,DSM
+Detroit Metropolitan Airport,DTW
+Du Bois-Jefferson County Airport,DUJ
+Unalaska Airport,DUT
+Kongiganak Airport,DUY
+Devils Lake Municipal Airport,DVL
+Deer Valley Municipal Airport,DVT
+Danbury Municipal Airport,DXR
+Kearney Municipal Airport,EAR
+Pangborn Memorial Airport,EAT
+Chippewa Valley Regional Airport,EAU
+Eek Airport,EEK
+Keene/Dillant-Hopkins Airport,EEN
+Ellington Field,EFD
+Newport State Airport,EFK
+Eagle County Regional Airport,EGE
+Elkhart Municipal Airport,EKM
+Elko Regional Airport,EKO
+Elim Airport,ELI
+Elmira / Corning Regional Airport,ELM
+Ely Municipal Airport,ELO
+El Paso,ELP
+Ely Airport,ELY
+Kenai Municipal Airport,ENA
+Emmonak Airport,ENM
+Kenosha Regional Airport,ENW
+Erie,ERI
+Delta County Airport,ESC
+Esler Regional Airport,ESF
+Eugene,EUG
+Evansville,EVV
+New Bedford Regional Airport,EWB
+Craven County Regional Airport,EWN
+Newark International Airport,EWR
+Newtok Airport,EWU
+Key West International Airport,EYW
+Fairbanks International Airport,FAI
+Fitiuta Airport,FAQ
+Fargo,FAR
+Fresno,FAT
+Fayetteville,FAY
+Friday Harbor Airport,FHR
+Sierra Vista Municipal Airport,FHU
+Venango Regional Airport,FKL
+Flagstaff,FLG
+Fort Lauderdale-Hollywood International Airport,FLL
+Florence Regional Airport,FLO
+Four Corners Regional Airport,FMN
+Fort Collins-Loveland Municipal Airport,FNL
+Flint,FNT
+Fort Dodge Regional Airport,FOD
+Forbes Field Airport,FOE
+Republic Airport,FRG
+Fairmont Municipal Airport,FRM
+Sioux Falls,FSD
+Fort Smith Airport,FSM
+Fort Worth Meacham International Airport,FTW
+Fort Wayne,FWA
+Fort Yukon Airport,FYU
+Fayetteville,FYV
+Edward G. Pitka Sr Airport,GAL
+Gambell Airport,GAM
+Great Bend Municipal Airport,GBD
+Galbraith Lake Airport,GBH
+Gillette-Campbell County Airport,GCC
+Garden City Regional Airport,GCK
+Grand Canyon National Park Airport,GCN
+Sussex County Airport,GED
+Spokane International Airport,GEG
+Grand Forks International Airport,GFK
+Floyd Bennett Memorial Airport,GFL
+East Texas Regional Airport,GGG
+Kwigillingok Airport,GGV
+Wokal Field/Glasgow International Airport,GGW
+Grand Junction,GJT
+Gulkana Airport,GKN
+Goodland Municipal Airport,GLD
+Mid Delta Regional Airport,GLH
+Gaylord Regional Airport,GLR
+Galveston/Scholes International Airport,GLS
+Gainesville Regional Airport,GNV
+Groton-New London Airport,GON
+Glacier Park International Airport,GPI
+Gulfport,GPT
+Grand Rapids/Itasca County Airport,GPZ
+Green Bay,GRB
+Central Nebraska Regional Airport,GRI
+Killeen-Fort Hood Regional Airport,GRK
+Rota International Airport,GRO
+Grand Rapids,GRR
+Saipan International Airport,GSN
+Greensboro,GSO
+Greenville,GSP
+Gustavus Airport,GST
+Great Falls International Airport,GTF
+Golden Triangle Regional Airport,GTR
+Gunnison-Crested Butte Regional Airport,GUC
+Guam International Airport,GUM
+Gallup Municipal Airport,GUP
+Donaldson Center Airport,GYH
+Phoenix Goodyear Airport,GYR
+Gary Regional Airport,GYY
+Yampa Valley Regional Airport,HDN
+Hartford-Brainard Airport,HFD
+Hagerstown Regional Airport,HGR
+Chisholm-Hibbing Airport,HIB
+Lake Havasu City Airport,HII
+"Portland, Hillsboro Airport",HIO
+Hawkins Field Airport,HKS
+Hickory Regional Airport,HKY
+Huslia Airport,HLA
+Helena Regional Airport,HLN
+Henderson Executive Airport,HND
+Hoonah Airport,HNH
+Honolulu International Airport,HNL
+Hana Airport,HNM
+Haines Airport,HNS
+Lea County Regional Airport,HOB
+Homer Airport,HOM
+Huron Regional Airport,HON
+Memorial Field Airport,HOT
+"Houston, William B Hobby Airport",HOU
+Hooper Bay Airport,HPB
+Westchester,HPN
+Valley International Airport,HRL
+Boone County Airport,HRO
+Huslia Airport,HSL
+Huntsville International Airport,HSV
+Huntington Tri-State Airport,HTS
+Terre Haute International Airport,HUF
+Hutchinson Municipal Airport,HUT
+Tweed New Haven,HVN
+Hilton Head Airport,HXD
+Hyannis,HYA
+Hollis Seaplane Base,HYL
+Hays Regional Airport,HYS
+"Washington, Dulles International Airport",IAD
+"Houston, George Bush Intercontinental Airport",IAH
+Bob Baker Memorial Airport,IAN
+Wichita,ICT
+Idaho Falls Regional Airport,IDA
+Laughlin/Bullhead International Airport,IFP
+Kingman Airport,IGM
+Kipnuk Airport,IIK
+Skylark Field,ILE
+New Castle Airport,ILG
+Iliamna Airport,ILI
+Willmar Municipal Airport,ILL
+Wilmington International Airport,ILM
+Iron Mountain Airport,IMT
+Indianapolis International Airport,IND
+Falls International Airport,INL
+Winston-Salem,INT
+Imperial County Airport,IPL
+Williamsport Regional Airport,IPT
+Kirksville Regional Airport,IRK
+Sloulin Field International Airport,ISN
+Kinston Regional Jetport,ISO
+Islip,ISP
+Ithaca Tompkins Regional Airport,ITH
+Hilo,ITO
+Williams Gateway Airport,IWA
+Gogebic-Iron County Airport,IWD
+Olathe/New Century Aircenter Airport,IXD
+Inyokern Airport,IYK
+Jackson Hole,JAC
+Jackson,JAN
+Jacksonville,JAX
+Jonesboro Municipal Airport,JBR
+Jefferson City Memorial Airport,JEF
+"New York,ØJohn F Kennedy International Airport",JFK
+Chautauqua County/Jamestown Airport,JHW
+Joplin Regional Airport,JLN
+Jamestown Regional Airport,JMS
+Juneau International Airport,JNU
+Downtown Manhattan Heliport,JRB
+Johnstown-Cambria County Airport,JST
+Southern Wisconsin Regional Airport,JVL
+Jackson County Airport,JXN
+Kake Airport,KAE
+Kaltag Airport,KAL
+Kodiak Municipal Airport,KDK
+English Bay Airport,KEB
+Koyuk Airport,KKA
+Kalskag Airport,KLG
+Kailua,KOA
+St Mary's Airport,KSM
+Thorne Bay Airport,KTB
+Ketchikan International Airport,KTN
+King Cove Airport,KVC
+Kivalina Airport,KVL
+Kwethluk Airport,KWT
+Kentucky,KY
+Lamar Municipal Airport,LAA
+Purdue University Airport,LAF
+Lakeland Linder Regional Airport,LAL
+Lansing,LAN
+Laramie Regional Airport,LAR
+"Las Vegas,ØLas Vegas McCarran International Airport",LAS
+Lawton-Fort Sill Regional Airport,LAW
+Los Angeles International Airport,LAX
+Lubbock,LBB
+Arnold Palmer Regional Airport,LBE
+North Platte Regional Airport Lee Bird Field,LBF
+Liberal Municipal Airport,LBL
+Brazoria County Airport,LBX
+Lake Charles Regional Airport,LCH
+Rickenbacker International Airport,LCK
+Lebanon Municipal Airport,LEB
+Lexington,LEX
+Lafayette Regional Airport,LFT
+"New York,ØLa Guardia Airport",LGA
+Long Beach,LGB
+Lake Hood Airport,LHD
+Lihue,LIH
+Little Rock National Airport,LIT
+Klamath Falls Airport,LMT
+Lincoln,LNK
+Lancaster Airport,LNS
+Lanai Airport,LNY
+Lorain County Regional Airport,LPR
+Laredo International Airport,LRD
+Las Cruces International Airport,LRU
+La Crosse Municipal Airport,LSE
+Cincinnati Municipal Airport Lunken Field,LUK
+Greenbrier Valley Airport,LWB
+Lewiston-Nez Perce County Airport,LWS
+Lynchburg Regional Airport/Preston Glenn Field,LYH
+Midland,MAF
+Mayaquez Airport,MAZ
+Manokotak Airport,MBA
+Manistee County-Blacker,MBL
+Saginaw,MBS
+Mc Clellan Airfield,MCC
+Merced Municipal Airport,MCE
+McGrath Airport,MCG
+Kansas City,MCI
+Mc Cook Regional Airport,MCK
+Middle Georgia Regional Airport,MCN
+Orlando,MCO
+Mason City Municipal Airport,MCW
+Southern Illinois Airport,MDH
+Marshall Don Hunter Sr Airport,MDM
+Harrisburg,MDT
+Chicago Midway Airport,MDW
+Henderson Field Airport,MDY
+Key Field Airport,MEI
+Memphis,MEM
+Mansfield Lahm Regional Airport,MFD
+Mcallen-Miller International Airport,MFE
+Medford Rogue Valley International Airport,MFR
+Montgomery,MGM
+Morgantown Municipal Airport,MGW
+Mitchell Municipal Airport,MHE
+Manhattan Regional Airport,MHK
+Manchester,MHT
+Miami International Airport,MIA
+Delaware County Airport,MIE
+Millville Municipal Airport,MIV
+Robert J. Miller Air Park,MJX
+Charles B. Wheeler Downtown Airport,MKC
+Milwaukee,MKE
+Muskegon County Airport,MKG
+Molokai Airport,MKK
+Mc Kellar-Sipes Regional Airport,MKL
+Mankato Regional Airport,MKT
+Melbourne International Airport,MLB
+Moline,MLI
+Marshall Airport,MLL
+Monroe Regional Airport,MLU
+Mammoth Yosemite Airport,MMH
+Morristown Municipal Airport,MMU
+Mc Minnville Municipal Airport,MMV
+Menominee-Marinette Twin County Airport,MNM
+Mobile,MOB
+Modesto City-County Airport,MOD
+Minot International Airport,MOT
+Mountain Village Airport,MOU
+Montpelier,MPV
+Dare County Regional Airport,MQI
+Mount Comfort Airport,MQJ
+Sawyer International Airport,MQT
+Smyrna Airport,MQY
+Merrill Field,MRI
+Monterey Regional Airport,MRY
+Northwest Alabama Regional Airport,MSL
+Madison,MSN
+Missoula International Airport,MSO
+Minneapolis/St.Paul International Airport,MSP
+Massena International Airport,MSS
+Sullivan County International Airport,MSV
+New Orleans International Airport,MSY
+Florida Keys Marathon Airport,MTH
+Montrose Regional Airport,MTJ
+Metlakatla Airport,MTM
+Coles County Memorial Airport,MTO
+Waimea - Kohala Airport,MUE
+Morrisville-Stowe State Airport,MVL
+Mount Vernon Airport,MVN
+Martha's Vineyard Airport,MVY
+Williamson County Regional Airport,MWA
+Grant County International Airport,MWH
+Myrtle Beach,MYR
+Pinal Airpark,MZJ
+Golovin Airport,N93
+Lakefront Airport,NEW
+Millington Regional Jetport,NQA
+Nulato Airport,NUL
+Albert J Ellis Airport,OAJ
+Oakland,OAK
+Ocala International Airport,OCF
+Karl Stefan Memorial Airport,OFK
+Ogden-Hinckley Airport,OGD
+Kahului,OGG
+Ogdensburg International Airport,OGS
+Oklahoma City,OKC
+Olympia Airport,OLM
+Omaha,OMA
+Nome Airport,OME
+Newport Municipal Airport,ONP
+Ontario,ONT
+Toksook Bay Airport,OOK
+Quonset State Airport,OQU
+"Chicago, O'Hare International Airport Airport",ORD
+Norfolk,ORF
+Worcester,ORH
+Port Lions Airport,ORI
+Orcas Island Airport,ORS
+Robert (Bob) Curtis Memorial Airport,ORV
+Wittman Regional Airport,OSH
+Ohio State University Airport,OSU
+Worthington Municipal Airport,OTG
+Southwest Oregon Regional Airport,OTH
+Ottumwa Industrial Airport,OTM
+Ralph Wien Memorial Airport,OTZ
+Owensboro-Daviess County Airport,OWB
+Waterbury-Oxford Airport,OXC
+Oxnard Airport,OXR
+Snohomish County Airport (Paine Field),PAE
+Paducah Barkley Regional Airport,PAH
+Plattsburgh International Airport,PBG
+West Palm Beach,PBI
+Carl R Keller Field,PCW
+Eastern Oregon Regional Airport At Pendleton,PDT
+Portland International Airport,PDX
+Panama City-Bay County International Airport,PFN
+Page Municipal Airport,PGA
+Charlotte County Airport,PGD
+Port Graham Airport,PGM
+Pitt-Greenville Airport,PGV
+Newport News,PHF
+Philadelphia,PHL
+Point Hope Airport,PHO
+"Phoenix,ØPhoenix Sky Harbor International Airport",PHX
+Peoria,PIA
+Hattiesburg-Laurel Regional Airport,PIB
+St. Petersburg,PIE
+Pocatello Regional Airport,PIH
+Pierre,PIR
+Pittsburgh,PIT
+Mid-Ohio Valley Regional Airport,PKB
+Clinton County Airport,PLB
+M Graham Clark - Taney County Airport,PLK
+Pellston Regional Airport,PLN
+Palmdale Regional Airport,PMD
+Ponca City Regional Airport,PNC
+Pensacola,PNS
+Dutchess County Airport,POU
+Prospect Creek Airport,PPC
+Pago Pago International Airport,PPG
+Northern Maine Regional Airport,PQI
+Trent Lott International Airport,PQL
+Paso Robles Municipal Airport,PRB
+Ernest A. Love Field Airport,PRC
+"Pasco, Pasco/Tri-Cities Airport",PSC
+Mercedita International Airport,PSE
+Petersburg Airport,PSG
+Pease International Airport,PSM
+Palm Springs,PSP
+Port Heiden Airport,PTH
+Oakland County International Airport,PTK
+Pueblo,PUB
+Pullman / Moscow Regional Airport,PUW
+Provincetown Municipal Airport,PVC
+Providence - T.F. Green Airport,PVD
+Provo Airport,PVU
+Portland,PWM
+Bremerton National Airport,PWT
+Rapid City,RAP
+Redding Municipal Airport,RDD
+Reading Regional Airport,RDG
+Redmond Municipal Airport,RDM
+Raleigh,RDU
+Chicago Rockford International Airport,RFD
+Rhinelander/Oneida County Airport,RHI
+Richmond,RIC
+Riverton Regional Airport,RIW
+Knox County Regional Airport,RKD
+Rock Springs,RKS
+Griffiss Airpark,RME
+Richard B Russell Airport,RMG
+Reno-Tahoe International Airport,RNO
+Roanoke,ROA
+Rochester,ROC
+Roswell International Air Center,ROW
+Russian Mission Airport,RSH
+Rochester,RST
+Fort Meyers,RSW
+Rutland,RUT
+Rocky Mount-Wilson Regional Airport,RWI
+Santa Fe Regional Airport,SAF
+San Diego,SAN
+San Antonio International Airport,SAT
+Savannah,SAV
+Sawyer International Airport,SAW
+Santa Barbara Airport,SBA
+San Bernardino International Airport,SBD
+South Bend,SBN
+San Luis Obispo County Regional Airport,SBP
+Salisbury-Ocean City Wicomico Regional Airport,SBY
+Deadhorse Airport,SCC
+University Park Airport,SCE
+Stockton Metropolitan Airport,SCK
+Scammon Bay Airport,SCM
+Louisville,SDF
+Sand Point Airport,SDP
+Sidney-Richland Municipal Airport,SDY
+"Seattle, Tacoma International Airport",SEA
+Grand Case-EspŽrance Airport,SFB
+San Francisco International Airport,SFO
+North Central State Airport,SFZ
+Springfield,SGF
+Springfield-Beckley Municipal Airport,SGH
+St Augustine Airport,SGJ
+St George Regional Airport,SGU
+Skagway Airport,SGY
+Shenandoah Valley Regional Airport,SHD
+Shungnak Airport,SHG
+Shishmaref Airport,SHH
+Sheridan County Airport,SHR
+Shreveport,SHV
+Fernando Luis Ribas Dominicci Airport,SIG
+Sitka Rocky Gutierrez Airport,SIT
+San Jose,SJC
+San Angelo Regional Airport/Mathis Field,SJT
+Luis Munoz Marin International Airport,SJU
+Taos Regional Airport,SKX
+Salt Lake City,SLC
+Salem,SLE
+Adirondack Regional Airport,SLK
+Salina Municipal Airport,SLN
+Sacramento,SMF
+Santa Maria Public Airport District,SMX
+Santa Ana,SNA
+Saint Paul Island Airport,SNP
+Moore County Airport,SOP
+Seldovia Airport,SOV
+Show Low Regional Airport,SOW
+Abraham Lincoln Capital Airport,SPI
+Wichita Falls Municipal Airport,SPS
+Whiteside County Airport,SQI
+Sarasota,SRQ
+Sierra Blanca Regional Airport,SRR
+St Cloud Regional Airport,STC
+Rosecrans Memorial Airport,STJ
+"St Louis, Lambert International Airport",STL
+St Paul Downtown Airport / Holman Field,STP
+Sonoma County Airport,STS
+Cyril E. King Airport,STT
+Henry E Rohlson International Airport,STX
+Friedman Memorial Airport,SUN
+Spirit Of St Louis Airport,SUS
+Sioux Gateway Airport,SUX
+Savoonga Airport,SVA
+Grant County Airport,SVC
+Newburgh,SWF
+Stillwater Regional Airport,SWO
+Syracuse,SYR
+Trident Basin Seaplane Base,T44
+Ralph M Calhoun Memorial Airport,TAL
+Waynesville Regional Airport At Forney Field,TBN
+Tuscaloosa Regional Airport,TCL
+Teterboro Airport,TEB
+Telluride Regional Airport,TEX
+Space Coast Regional Airport,TIX
+Tallahassee International Airport,TLH
+Tuluksak Airport,TLT
+Tinian International Airport,TNI
+Togiak Airport,TOG
+Toledo,TOL
+Tampa,TPA
+Draughon-Miller Central Texas Regional Airport,TPL
+Bristol,TRI
+Trenton,TTN
+Tulsa,TUL
+Tupelo Regional Airport,TUP
+Tucson International Airport,TUS
+Cherry Capital Airport,TVC
+Thief River Falls Regional Airport,TVF
+Lake Tahoe Airport,TVL
+Vicksburg Tallulah Regional Airport,TVR
+Magic Valley Regional Airport,TWF
+Texarkana Regional Airport,TXK
+Tyler Pounds Regional Airport,TYR
+Knoxville,TYS
+Oneida County Airport,UCA
+Quincy Regional Airport - Baldwin Field,UIN
+Unalakleet Airport,UNK
+University Park Airport,UNV
+University-Oxford Airport,UOX
+Concord Regional Airport,USA
+Newport State Airport,UUU
+Chevak Airport,VAK
+Victoria Regional Airport,VCT
+Southern California Logistics Airport,VCV
+Valdez Pioneer Field,VDZ
+North Las Vegas Air Terminal,VGT
+Visalia Municipal Airport,VIS
+Valdosta Regional Airport,VLD
+Destin-Fort Walton Beach Airport,VPS
+Porter County Municipal Airport,VPZ
+Cecil Field Airport,VQQ
+Vieques Airport,VQS
+Vero Beach Municipal Airport,VRB
+Stebbins Airport,WBB
+Woodring Municipal Airport,WDG
+Selawik Airport,WLK
+Napakiak Airport,WNA
+Wrangell Airport,WRG
+Worland Municipal Airport,WRL
+Westerly State Airport,WST
+Noatak Airport,WTK
+Cape May County Airport,WWD
+West Yellowstone Airport,WYS
+Miami Airport,X44
+Diego Jimenez Torres Airport,X95
+Northwest Arkansas Regional Airport,XNA
+Yakutat Airport,YAK
+Yakima Air Terminal/Mcallister Field,YKM
+Chan Gurney Municipal Airport,YKN
+Youngstown Regional Airport,YNG
+Yuma International Airport,YUM
+Ofu Airport,Z08
+Kasigluk Airport,Z09
+Niagara Falls International Airport,IAG
+Glacier Park International Airport,FCA
+Northwest Florida Beaches International Airport,ECP
+Phoenix-Mesa Gateway Airport,AZA
